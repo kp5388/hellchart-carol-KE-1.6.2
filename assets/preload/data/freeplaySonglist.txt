@@ -1,0 +1,3 @@
+Tutorial:gf:1
+Gacha-Life:gacha:1
+hellroll:carol:1
